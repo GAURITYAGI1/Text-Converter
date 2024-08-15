@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/GAURITYAGI1/Text_Converter.git
+   git clone https://github.com/GAURITYAGI1/Text-_Converter.git
    ```
 
 2. **Navigate to the project directory:**
