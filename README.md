@@ -63,5 +63,5 @@ Contributions are welcome! If you find any issues or have ideas for improvements
   
 ## Contact
 
-Created by [❤ with GAURI TYAGI](https://www.linkedin.com/in/gauri-tyagi-608291194/) - feel free to contact me!
+Created by ❤ with [GAURI TYAGI](https://www.linkedin.com/in/gauri-tyagi-608291194/) - feel free to contact me!
 
